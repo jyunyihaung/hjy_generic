@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hjy_generic", "hjy_generic.csproj", "{95152244-C8E0-4819-9D0B-091392A878FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hjy_generic_example", "hjy_generic_example\hjy_generic_example.csproj", "{AD427708-E1D0-450C-B8B3-BAE4EBB1A19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95152244-C8E0-4819-9D0B-091392A878FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95152244-C8E0-4819-9D0B-091392A878FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95152244-C8E0-4819-9D0B-091392A878FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95152244-C8E0-4819-9D0B-091392A878FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD427708-E1D0-450C-B8B3-BAE4EBB1A19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD427708-E1D0-450C-B8B3-BAE4EBB1A19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD427708-E1D0-450C-B8B3-BAE4EBB1A19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD427708-E1D0-450C-B8B3-BAE4EBB1A19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC73156-AC18-4054-86CC-485DDE9C1102}
+	EndGlobalSection
+EndGlobal
